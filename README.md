@@ -15,3 +15,7 @@
 תוכנות צד שלישי: Selenium WebDriver,Junit,ExtentReports,Maven
 
 כתובת אתר: https://www.next.co.il/en
+
+בפרויקט נעשה שימוש ב- ChromDriver.
+
+ניתן להורידו בקישור זה: https://chromedriver.storage.googleapis.com/index.html?path=107.0.5304.62/ 
