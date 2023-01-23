@@ -19,3 +19,10 @@
 בפרויקט נעשה שימוש ב- ChromeDriver.
 
 ניתן להורידו בקישור זה: https://chromedriver.storage.googleapis.com/index.html?path=107.0.5304.62/ 
+
+ניתן להחליף את הנתיב שבו ממוקם ה-driver כך:
+
+יש להיכנס ל
+-Constans :Class
+
+ולהחליף את הנתיב של URL_CHROME_DRIVER לנתיב הרצוי.
