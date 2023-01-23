@@ -27,7 +27,7 @@
 
 ולהחליף את הנתיב של URL_CHROME_DRIVER לנתיב הרצוי.
 
-צילומי המסך  שנוצרות במקרים של תקלות נשמרות בנתיב הזה:  nextProject\target\spark\pictures
+צילומי המסך  שנוצרים במקרים של תקלות נשמרים בנתיב הזה:  nextProject\target\spark\pictures
 
 ניתן להחליפו כך:
 
@@ -35,6 +35,8 @@
 -Constans :Class
 
 ולהחליף את הנתיב של URL_PICTRUES לנתיב הרצוי.
+
+קובץ ה-XML שבו ישנם פרמטרים כמו URL ו-PASSWORDS קיים בנתיב זה: nextProject\nextProject\target
 
 
 
