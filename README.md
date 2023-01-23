@@ -16,6 +16,6 @@
 
 כתובת אתר: https://www.next.co.il/en
 
-בפרויקט נעשה שימוש ב- ChromDriver.
+בפרויקט נעשה שימוש ב- ChromeDriver.
 
 ניתן להורידו בקישור זה: https://chromedriver.storage.googleapis.com/index.html?path=107.0.5304.62/ 
