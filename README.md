@@ -36,7 +36,18 @@
 
 ולהחליף את הנתיב של URL_PICTRUES לנתיב הרצוי.
 
-קובץ ה-XML שבו ישנם פרמטרים כמו URL ו-PASSWORDS קיים בנתיב זה: nextProject\nextProject\target
+קובץ ה-XML שבו ישנם פרמטרים כמו URL ו-PASSWORDS קיים בנתיב זה: nextProject\target
+
+ניתן להחליף את הנתיב שלו מ -Constans :Class
+
+מוגדר כ: URL_CONFIGXML.
+
+וכן קובץ ה-REPORTS ממוקם בנתיב זה: nextProject\target/Spark/index.html
+
+ניתן להחליף את הנתיב שלו מ -Constans :Class
+
+מוגדר כ: URL_REPORTS.
+
 
 
 
