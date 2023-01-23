@@ -13,4 +13,5 @@
 סביבת פיתוח Intellij ide :IDE
 
 תוכנות צד שלישי: Selenium WebDriver,Junit,ExtentReports,Maven
+
 כתובת אתר: https://www.next.co.il/en
