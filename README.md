@@ -26,3 +26,16 @@
 -Constans :Class
 
 ולהחליף את הנתיב של URL_CHROME_DRIVER לנתיב הרצוי.
+
+צילומי המסך  שנוצרות במקרים של תקלות נשמרות בנתיב הזה:  nextProject\target\spark\pictures
+
+ניתן להחליפו כך:
+
+יש להיכנס ל
+-Constans :Class
+
+ולהחליף את הנתיב של URL_PICTRUES לנתיב הרצוי.
+
+
+
+
