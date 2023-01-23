@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+<BrowserType>Chrome</BrowserType>
+  <BrowserType>fireFox</BrowserType>
+  <LOGINURL>https://account.next.co.il/en/Login</LOGINURL>
+  <PAYMENTURL>https://www.next.co.il/he/secure/checkout/payment?bagChanged=False</PAYMENTURL>
+  <URL>https://www.next.co.il/en</URL>
+  <URL>https://www.next.co.il/he</URL>
+  <URL>https://www.next.co.il/he/style/st042835/t14621#t14621</URL>
+  <URLHEBREW>https://www.next.co.il/he</URLHEBREW>
+  <URLSELECTEDPRODUCT>https://www.next.co.il/he/style/st042835/t14621#t14621</URLSELECTEDPRODUCT>
+  <SHOPINGCARTURL>https://www.next.co.il/he/shoppingbag</SHOPINGCARTURL>
+  <EMAILADRESS>c0548532849@gmail.com</EMAILADRESS>
+  <EMAILADRESS>coppp@gmail.com</EMAILADRESS>
+<PASSWORD>39057yya</PASSWORD>
+  <PASSWORD>hjjjj</PASSWORD>
+  <SEARCH>Blue/Black Hoodie</SEARCH>
+  <RADIOPAYBTN>//*[@id="PaymentId"]</RADIOPAYBTN>
+
+
+
+
+
+
+</config>
+
+
